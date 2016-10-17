@@ -3,9 +3,9 @@ body {
 }
 
 .titulo {
-  position: fixed;
+
   left: 50%;
-  top: 50%;
+  top: 15%;
   transform: translate(-50%, -50%);
   color: #e9e6e4;
   font-size: 40px;
